@@ -1,4 +1,6 @@
+
 {
+<<<<<<< HEAD
   "name": "thapaapi",
   "version": "1.0.0",
   "main": "index.js",
@@ -19,4 +21,9 @@
     "vercel": "^34.3.1"
   },
   "description": ""
+=======
+  "dependencies": {
+    "gitignore": "^0.7.0"
+  }
+>>>>>>> 43db7e02369400f12014679f01081bde2f26564d
 }
